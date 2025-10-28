@@ -1,1 +1,1 @@
-# TinkerTools on GitHub: Software from the TinkerTools Community
+# Molecular Modeling Software from the TinkerTools Community
